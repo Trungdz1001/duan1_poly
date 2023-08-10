@@ -1,0 +1,72 @@
+
+.left{
+float: left;
+}
+.left h1{
+color: black;
+font-size: 30px;
+font-family: 'Courier New', Courier, monospace;
+}
+.left h3{
+margin-left: -20px;
+color: red;
+font-size: 25px;
+font-family: 'Courier New', Courier, monospace;
+}
+.left h4{
+margin-top: 20px;
+margin-left: 10px;
+}
+.box h1{
+margin: 30px -20px 10px;
+}
+.box img{
+margin: 7px;
+padding: 0px 0px 0px 0px;
+}
+button{
+padding-top: 0px;
+color: black;
+background: orange;
+width: 150px;
+height: 50px;
+border-radius: 10px 10px 10px 10px;
+margin-left: 10px;
+}
+p{
+margin-left: 10px;
+color: black;
+text-align: justify;
+}
+.bnt2:hover{
+color: white;
+background-color: red;
+}
+.bnt2:hover{
+-webkit-transform: scale(1.1);
+-moz-transform: scale(1.1);
+-ms-transform: scale(1.1);
+ -o-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.bnt2{
+    -webkit-transform: scale(1.0);
+    -moz-transform: scale(1.0);
+     -ms-transform: scale(1.0);
+      -o-transform: scale(1.0);
+         transform: scale(1.0);
+}
+.left img:hover{
+-webkit-transform: scale(1.03);
+-moz-transform: scale(1.03);
+-ms-transform: scale(1.03);
+ -o-transform: scale(1.03);
+    transform: scale(1.03);
+}
+.left img{
+    -webkit-transform: scale(1.0);
+    -moz-transform: scale(1.0);
+     -ms-transform: scale(1.0);
+      -o-transform: scale(1.0);
+         transform: scale(1.0);
+}
